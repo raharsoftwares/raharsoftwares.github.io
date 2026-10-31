@@ -7,3 +7,4 @@ markdown: kramdown
 theme: jekyll
 
 plugins: []
+version: "0.1.0"
