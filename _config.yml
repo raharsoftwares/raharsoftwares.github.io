@@ -1,2 +1,9 @@
-name: Rahar Softwares
-title: null
+title: RAHAR
+description: Company Website
+url: "https://raharsoftwares.com.np"
+baseurl: ""
+
+markdown: kramdown
+theme: jekyll
+
+plugins: []
