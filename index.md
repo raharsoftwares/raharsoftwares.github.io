@@ -2,21 +2,31 @@
 layout: default
 title: RAHAЯ
 ---
+<img src="/assets/img/logo.svg" alt="R" width="80">
 
 
-<img src="/assets/img/logo.svg" width="100"/>
-
-## Rahar Softwares Private Limited
+<!-- <div class="brand">
+    <span>RAHAЯ</span>
+</div> -->
+## Rahar Softwares
 
 A remote-first software company focused on building scalable digital products.
 
-<hr color="#e5e5e5">
+<hr color="#e5e5e5"/>
 <div class="company-details">
+
+
+© 2026 Rahar Softwares Private Limited<br>
+
     <a href="mailto:contact@raharsoftwares.com.np">contact@raharsoftwares.com.np</a>
-    Reg. No. 252545<br>
-PAN No. 609903043<br>
+    Reg. 252545, PAN 609903043<br>
+Site Version
+{{site.version}}
+
+
 
 </div>
 <hr color="#e5e5e5">
+
 
 
